@@ -43,8 +43,11 @@ This project was built to practice API integration and frontend onboarding flow 
 ## Folder Structure
 
 index.html
+
 payment.html
+
 subscription.html
+
 dashboard.html
 
 css/
