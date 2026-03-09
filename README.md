@@ -14,12 +14,25 @@ Dashboard Page – Displays a simple overview after onboarding.
 
 Signup → API Request → Dummy Payment → Subscription Plan → Dashboard
 
+## Screenshots
+### Signup Page
+![Signup](images/signup.png)
+
+### Payment 
+![Payment](images/payment.png)
+
+###Subscription Plan
+![Subscription](images/Subscription.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-
 
 ## Purpose
 
