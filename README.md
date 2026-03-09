@@ -19,11 +19,11 @@ Signup → API Request → Dummy Payment → Subscription Plan → Dashboard
 ### Sign Up Page
 ![Sign Up Screen](signup.png)
 
-### Payment 
+### Payment Gateway 
 ![Payment](payment.png)
 
 ### Subscription Plan
-![Subscription](Subscription.png)
+![Subscription](subscription.png)
 
 ###User Dashboard
 ![Dashboard](dashboard.png)
