@@ -4,23 +4,15 @@ This project demonstrates a simple SaaS onboarding process built with HTML, CSS,
 
 ## Features
 
-- User Signup Form
-- API Request Handling
-- Dummy Payment Page
-- Subscription Plan Selection
-- Dashboard Page
+User Signup Form – Collects user information with basic validation.
+API Request Handling – Demonstrates frontend interaction with APIs.
+Dummy Payment Page – Simulates payment processing.
+Subscription Plan Selection – Users can choose between different plans.
+Dashboard Page – Displays a simple overview after onboarding.
 
 ## Project Flow
 
-Signup  
-↓  
-API Request  
-↓  
-Dummy Payment  
-↓  
-Subscription Plan  
-↓  
-Dashboard
+Signup → API Request → Dummy Payment → Subscription Plan → Dashboard
 
 ## Technologies Used
 
@@ -41,7 +33,7 @@ subscription.html
 dashboard.html
 
 css/
- style.css
+  └─ style.css
 
 js/
- app.js
+  └─ app.js
