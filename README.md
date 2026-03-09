@@ -16,7 +16,7 @@ Signup → API Request → Dummy Payment → Subscription Plan → Dashboard
 
 ## Screenshots
 ### Signup Page
-![Signup](images/Signup.png)
+![Signup](images/Sign20%Up.png)
 
 ### Payment 
 ![Payment](images/payment.png)
