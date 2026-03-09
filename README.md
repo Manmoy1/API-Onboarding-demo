@@ -17,6 +17,7 @@ Signup → API Request → Dummy Payment → Subscription Plan → Dashboard
 ## Screenshots
 ### Signup Page
 ![Sign Up](images/API-Onboarding-demo/Sign20%Up.png)
+![Signup](https://github.com/Manmoy1/API-Onboarding-demo/blob/main/signup.png?raw=true)
 
 ### Payment 
 ![Payment](images/API-Onboarding-demo/payment.png)
