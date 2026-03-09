@@ -21,7 +21,7 @@ Signup → API Request → Dummy Payment → Subscription Plan → Dashboard
 ### Payment 
 ![Payment](images/payment.png)
 
-###Subscription Plan
+### Subscription Plan
 ![Subscription](images/Subscription.png)
 
 ### Dashboard
