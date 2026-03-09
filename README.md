@@ -16,16 +16,16 @@ Signup → API Request → Dummy Payment → Subscription Plan → Dashboard
 
 ## Screenshots
 ### Signup Page
-![Sign Up](images/Sign20%Up.png)
+![Sign Up](images/API-Onboarding-demo/Sign20%Up.png)
 
 ### Payment 
-![Payment](images/payment.png)
+![Payment](images/API-Onboarding-demo/payment.png)
 
 ### Subscription Plan
-![Subscription](images/Subscription.png)
+![Subscription](images/API-Onboarding-demo/Subscription.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/API-Onboarding-demo/dashboard.png)
 
 
 ## Technologies Used
